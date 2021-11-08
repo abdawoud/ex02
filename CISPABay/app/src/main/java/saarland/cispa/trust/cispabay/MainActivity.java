@@ -157,8 +157,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
-     * Checks for two permissions: Manifest.permission.CAMERA and Manifest.permission.WRITE_EXTERNAL_STORAGE
-     *  and returns true if both are granted, false otherwise
+     * Checks for the permission: Manifest.permission.CAMERA and returns true if the permission is
+     * granted, false otherwise
      *
      * @return boolean
      */
