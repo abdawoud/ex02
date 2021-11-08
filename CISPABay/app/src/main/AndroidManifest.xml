@@ -4,6 +4,9 @@
 
     <queries>
         <package android:name="saarland.cispa.trust.serviceapp" />
+        <intent>
+            <action android:name="android.media.action.IMAGE_CAPTURE" />
+        </intent>
     </queries>
 
     <application
