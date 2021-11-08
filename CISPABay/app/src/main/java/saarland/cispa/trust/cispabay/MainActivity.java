@@ -162,7 +162,7 @@ public class MainActivity extends AppCompatActivity {
      *
      * @return boolean
      */
-    public boolean hasPermissionToTakePhotoAndStoreInExternalStorage() {
+    public boolean hasPermissionToTakePhoto() {
         // @TODO : IMPLEMENT
         return false;
     }
