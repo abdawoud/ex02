@@ -1,8 +1,6 @@
 package saarland.cispa.trust.cispabay.fragments;
 
-import android.annotation.SuppressLint;
 import android.content.ContentProviderClient;
-import android.content.ContentResolver;
 import android.content.ContentValues;
 import android.content.Intent;
 import android.location.Location;
